@@ -1,1 +1,2 @@
 # QAAutomationExample
+This is an example of an automated test.  According to the criteria outlined in the instructions, the test actually fails.  Some of the titles do not contain the word 'Table', but I've used a soft assert so that all required behavior occurs and the test fails afterward.  [Here is the requested testcase](https://github.com/normalPerson123/QAAutomationExample/blob/main/QATest/src/test/java/TestCases/ProductSearchCartTest.java).
